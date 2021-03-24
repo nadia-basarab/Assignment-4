@@ -3,12 +3,12 @@
   color: white;
   padding: 40px;
   text-align: center;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   font-size: 300%;
 }
 
 #my-picture {
-  align-content: center; 
+  align-content: center;
   width: 15%;
   height: 15%;
   display: block;
@@ -18,77 +18,77 @@
 
 #begining {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #history {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #school {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #end {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #cite {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #cite-two {
   font-size: 18px;
-  font-family: verdana ref;
+  font-family: "verdana", sans-serif;
   color: black;
   text-align: center;
 }
 
 #sections {
   font-size: 30px;
-  font-family: courier prime;
+  font-family: "courier", monospace;
   color: royalblue;
   text-align: center;
 }
 
 #header-two {
   font-size: 30px;
-  font-family: courier prime;
+  font-family: "courier", monospace;
   color: royalblue;
   text-align: center;
 }
 
 #education {
   font-size: 30px;
-  font-family: courier prime;
+  font-family: "courier", monospace;
   color: royalblue;
   text-align: center;
 }
 
 #final {
   font-size: 30px;
-  font-family: courier prime;
+  font-family: "courier", monospace;
   color: royalblue;
   text-align: center;
 }
 
 #quote {
   font-size: 19px;
-  font-family: courier;
+  font-family: "courier", monospace;
   color: black;
   text-align: center;
 }
@@ -96,5 +96,5 @@
 #link {
   text-align: center;
   font-size: 30px;
-  font-family: verdana ref;
-}
+  font-family: "verdana", sans-serif;
+ }
